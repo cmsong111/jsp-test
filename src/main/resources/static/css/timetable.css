@@ -3,9 +3,8 @@
     background-color: #999999;
 }
 table{
-
     background: cornsilk;
-    width: 800px;
+    width: 1000px;
 }
 .night{
     font-size: 30px;
@@ -19,11 +18,15 @@ td{
     font-size: 9px;
     font-weight: bold;
     text-align: center;
+    border-collapse: collapse;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
 }
 
-tr, td {
-    border: 1px solid black;
+tr {
     border-collapse: collapse;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
 }
 
 caption{
