@@ -30,23 +30,11 @@
     </thead>
     <tr>
         <th>00:00~01:00</th>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
+        <td class="coding" rowspan="2" colspan="7">코딩</td>
     </tr>
     <tr>
         <th>01:00~02:00</th>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
+
     </tr>
     <tr>
         <th>02:00~03:00</th>
@@ -110,7 +98,7 @@
         <td rowspan="2" class="class5">데이터베이스이론및실습</td>
         <td>&nbsp</td>
         <td>&nbsp</td>
-        <td rowspan="2" class="class6">동아리연계융복합캡스톤디자인Ⅰ</td>
+        <td rowspan="2" class="class6">동아리연계융복합<br>캡스톤디자인Ⅰ</td>
         <td>&nbsp</td>
         <td>&nbsp</td>
     </tr>
@@ -175,7 +163,7 @@
         <th>20:00~21:00</th>
         <td>&nbsp</td>
         <td>&nbsp</td>
-        <td>&nbsp</td>
+        <td rowspan="2">Spring 스터디</td>
         <td>&nbsp</td>
         <td>&nbsp</td>
         <td>&nbsp</td>
@@ -183,7 +171,6 @@
     </tr>
     <tr>
         <th>21:00~22:00</th>
-        <td>&nbsp</td>
         <td>&nbsp</td>
         <td>&nbsp</td>
         <td>&nbsp</td>

@@ -8,7 +8,7 @@ table{
     width: 800px;
 }
 .night{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: bold;
     color: yellow;
     background-image: url("../image/night_image.jpg");
@@ -31,6 +31,13 @@ caption{
     font-weight: bold;
     color: #000000;
     background-color: #999999;
+}
+
+.coding {
+    font-size: 30px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-image: url("../image/coding_image.jpg");
 }
 
 .class1 {
