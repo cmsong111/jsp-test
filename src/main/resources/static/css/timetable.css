@@ -3,7 +3,7 @@
     background-color: #999999;
 }
 table{
-    border: 1px gray;
+
     background: cornsilk;
     width: 800px;
 }
@@ -11,7 +11,76 @@ table{
     font-size: 50px;
     font-weight: bold;
     color: yellow;
-    background-image: url("/resources/image/night_image.jpg");
+    background-image: url("../image/night_image.jpg");
     background-repeat: no-repeat;
     background-position: center;
+}
+td{
+    font-size: 9px;
+    font-weight: bold;
+    text-align: center;
+}
+
+tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+caption{
+    font-size: 20px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #999999;
+}
+
+.class1 {
+    background-color: #4b7bec;
+}
+
+.class2 {
+    background-color: #95afc0;
+}
+
+.class3 {
+    background-color: #ff7979;
+}
+
+.class4 {
+    background-color: #badc58;
+}
+
+.class5 {
+    background-color: #dff9fb;
+}
+
+.class6 {
+    background-color: #f9ca24;
+}
+
+.class7 {
+    background-color: #f0932b;
+}
+
+.class8 {
+    background-color: #eb4d4b;
+}
+
+.class9 {
+    background-color: #6ab04c;
+}
+
+.class10 {
+    background-color: #c7ecee;
+}
+
+.class11 {
+    background-color: #7ed6df;
+}
+
+.class12 {
+    background-color: #e056fd;
+}
+
+.class13 {
+    background-color: #686de0;
 }

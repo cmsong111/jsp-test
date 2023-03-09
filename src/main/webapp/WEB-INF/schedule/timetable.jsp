@@ -30,10 +30,23 @@
     </thead>
     <tr>
         <th>00:00~01:00</th>
-
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>01:00~02:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>02:00~03:00</th>
@@ -53,55 +66,151 @@
     </tr>
     <tr>
         <th>07:00~08:00</th>
+        <td colspan="7">기상 및 출근 준비</td>
     </tr>
     <tr>
         <th>08:00~09:00</th>
+        <td colspan="7">통학</td>
     </tr>
     <tr>
         <th>09:00~10:00</th>
+        <td>&nbsp</td>
+        <td rowspan="2" class="class1">정보보호론</td>
+        <td rowspan="2" class="class3">소프트웨어설계공학</td>
+        <td rowspan="2" class="class4">공학설계입문</td>
+        <td rowspan="2" class="class3">소프트웨어설계공학</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>10:00~11:00</th>
+        <td rowspan="2" class="class2">클라우드시스템</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>11:00~12:00</th>
+        <td rowspan="2" class="class4">공학설계입문</td>
+        <td rowspan="2" class="class5">데이터베이스이론및실습</td>
+        <td rowspan="2" class="class2">클라우드시스템</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>12:00~13:00</th>
+        <td class="class7">운영체제</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>13:00~14:00</th>
+        <td class="class1">정보보호론</td>
+        <td rowspan="2" class="class5">데이터베이스이론및실습</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td rowspan="2" class="class6">동아리연계융복합캡스톤디자인Ⅰ</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>14:00~15:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td rowspan="2" class="class7">운영체제</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+
     </tr>
     <tr>
         <th>15:00~16:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>16:00~17:00</th>
+        <td>&nbsp</td>
+        <td class="class8">지도교수세미나Ⅲ-I</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>17:00~18:00</th>
+        <td>&nbsp</td>
+        <td rowspan="2" class="class9">랩세미나</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>18:00~19:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>19:00~20:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>20:00~21:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>21:00~22:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>22:00~23:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
     <tr>
         <th>23:00~24:00</th>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
+        <td>&nbsp</td>
     </tr>
-
+</table>
 </body>
 </html>
