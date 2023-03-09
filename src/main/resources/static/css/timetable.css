@@ -1,0 +1,17 @@
+.name {
+    color: #000000;
+    background-color: #999999;
+}
+table{
+    border: 1px gray;
+    background: cornsilk;
+    width: 800px;
+}
+.night{
+    font-size: 50px;
+    font-weight: bold;
+    color: yellow;
+    background-image: url("/resources/image/night_image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
