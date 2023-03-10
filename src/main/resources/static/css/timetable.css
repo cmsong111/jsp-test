@@ -11,6 +11,7 @@ table{
     font-weight: bold;
     color: yellow;
     background-image: url("../image/night_image.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -41,6 +42,7 @@ caption{
     font-weight: bold;
     color: #FFFFFF;
     background-image: url("../image/coding_image.jpg");
+    background-size: cover;
 }
 
 .class1 {
@@ -93,4 +95,13 @@ caption{
 
 .class13 {
     background-color: #686de0;
+}
+
+.springStudy {
+    background-image: url("../image/springboot.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-weight: bold;
+    font-size: 20px;
 }

@@ -34,7 +34,6 @@
     </tr>
     <tr>
         <th>01:00~02:00</th>
-
     </tr>
     <tr>
         <th>02:00~03:00</th>
@@ -54,11 +53,12 @@
     </tr>
     <tr>
         <th>07:00~08:00</th>
-        <td colspan="7">기상 및 출근 준비</td>
+        <td colspan="5">기상 및 출근 준비</td>
+        <td colspan="2" rowspan="2" class="night">취침</td>
     </tr>
     <tr>
         <th>08:00~09:00</th>
-        <td colspan="7">통학</td>
+        <td colspan="5">통학</td>
     </tr>
     <tr>
         <th>09:00~10:00</th>
@@ -163,7 +163,7 @@
         <th>20:00~21:00</th>
         <td>&nbsp</td>
         <td>&nbsp</td>
-        <td rowspan="2">Spring 스터디</td>
+        <td rowspan="2" class="springStudy">Spring 스터디</td>
         <td>&nbsp</td>
         <td>&nbsp</td>
         <td>&nbsp</td>
@@ -180,23 +180,10 @@
     </tr>
     <tr>
         <th>22:00~23:00</th>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
+        <td class="coding" rowspan="2" colspan="7">코딩</td>
     </tr>
     <tr>
         <th>23:00~24:00</th>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
-        <td>&nbsp</td>
     </tr>
 </table>
 </body>
